@@ -18,8 +18,8 @@ Je conçois et construis des applications modernes, performantes et intuitives.
 
 | Langage / Outil | Description |
 |------------------|-------------|
-| 🐍 **Python** | Machine Learning, Data Science |
 | 💙 **Dart / Flutter** | Développement d’applications mobiles multiplateformes |
+| 🐍 **Python** | Machine Learning, Data Science |
 | 🖥️ **VB.NET** | Développement d’applications de bureau |
 | 🗄️ **MySQL** | Gestion et optimisation de bases de données |
 | 🧠 **Git & GitHub** | Gestion de versions et collaboration |
@@ -28,9 +28,20 @@ Je conçois et construis des applications modernes, performantes et intuitives.
 
 ### 📊 Statistiques GitHub
 
-![Statistiques GitHub de Kasereka Kighunda](https://github-readme-stats.vercel.app/api?username=KaserekaKighunda&show_icons=true&theme=tokyonight)
+[![Statistiques GitHub de Kasereka Kighunda](https://github-readme-stats.vercel.app/api?username=KaserekaKighunda&show_icons=true&theme=tokyonight)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KaserekaKighunda&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KaserekaKighunda&layout=compact&theme=tokyonight)](url) 
+
+### ⚡ Activité GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaserekaKighunda&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaserekaKighunda&theme=tokyo-night&area=true&hide_border=true" alt="Graphique d’activité" />
+</p>
+
 
 ---
 
