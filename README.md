@@ -30,17 +30,16 @@ Je conçois et construis des applications modernes, performantes et intuitives.
 
 [![Statistiques GitHub de Kasereka Kighunda](https://github-readme-stats.vercel.app/api?username=KaserekaKighunda&show_icons=true&theme=tokyonight)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KaserekaKighunda&layout=compact&theme=tokyonight)](url) 
-
-### ⚡ Activité GitHub
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KaserekaKighunda&layout=compact&theme=tokyonight) 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaserekaKighunda&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KaserekaKighunda&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaserekaKighunda&theme=tokyo-night&area=true&hide_border=true" alt="Graphique d’activité" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaserekaKighunda&theme=github_dark" />
 </p>
+
 
 
 ---
