@@ -30,9 +30,26 @@ Je conçois et construis des applications modernes, performantes et intuitives.
 
 <div align="center">
 
+<!-- Statistiques principales -->
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=KaserekaKighunda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KaserekaKighunda&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Activité continue -->
+<img src="https://streak-stats.demolab.com?user=KaserekaKighunda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Carte de résumé -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaserekaKighunda&theme=tokyonight" alt="Résumé du profil GitHub" />
+
+<!-- Graphique d’activité -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaserekaKighunda&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d’activité GitHub" />
+
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KaserekaKighunda&color=blueviolet&style=flat-square" alt="Compteur de vues" />
+  <img src="https://img.shields.io/github/followers/KaserekaKighunda?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/KaserekaKighunda?label=Stars&style=flat-square&color=yellow" alt="Stars GitHub" />
+</p>
 
 </div>
 
