@@ -30,6 +30,9 @@ Je conçois et construis des applications modernes, performantes et intuitives.
 
 <div align="center">
 
+<!-- Statistiques principales -->
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KaserekaKighunda&layout=compact&theme=tokyonight&hide_border=true)
+
 
 <!-- Graphique d’activité -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaserekaKighunda&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d’activité GitHub" />
