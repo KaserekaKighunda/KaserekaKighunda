@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est **Kasereka Kighunda**
 
-💻 **Développeur Full Stack** passionné par la technologie, l’innovation et le développement de solutions intelligentes.  
+💻 **Software Developer** passionné par la technologie, l’innovation et le développement de solutions intelligentes.  
 Je conçois et construis des applications modernes, performantes et intuitives.
 
 ---
